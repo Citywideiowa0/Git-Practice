@@ -1,4 +1,4 @@
 # Git-Practice
-# "Adding a Change Exactly right here :)"!!!!
-a new line here
+# "Adding a Change Here :)"!!!!
+A conflicting change
 
